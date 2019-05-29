@@ -1,6 +1,6 @@
 package com.app;
 public class Test {
 	public static void main (String [] args){
-		System.out.println("Another?");
+		System.out.println("After super programmer's chenges");
 	}
 }
